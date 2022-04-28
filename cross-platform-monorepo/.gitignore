@@ -11,6 +11,9 @@
 /clean
 # Node
 /node_modules
+/projects/game-engine-lib/node_modules
+node_modules
+main.js
 npm-debug.log
 yarn-error.log
 
