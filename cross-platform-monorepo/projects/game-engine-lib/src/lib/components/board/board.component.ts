@@ -24,7 +24,7 @@ import { Zoundfx } from 'ng-zzfx';
 @Component({
   selector: 'game-board',
   templateUrl: './board.component.html',
-  // styleUrls: ['./board.component.scss']
+  styleUrls: ['./board.component.scss']
 })
 export class BoardComponent implements OnInit {
 

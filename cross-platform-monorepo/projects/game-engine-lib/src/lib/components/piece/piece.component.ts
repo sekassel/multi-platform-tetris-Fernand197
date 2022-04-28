@@ -69,7 +69,7 @@ export class Piece implements IPiece {
   }
 
   private addNextShadow(ctx: CanvasRenderingContext2D, x: number, y: number): void {
-   ctx.fillStyle = 'black';
+    ctx.fillStyle = 'black';
     ctx.fillRect(x, y, 1.025, 1.025);
   }
 

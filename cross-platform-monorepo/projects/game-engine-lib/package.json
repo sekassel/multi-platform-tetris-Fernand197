@@ -3,10 +3,10 @@
   "version": "0.0.1",
   "peerDependencies": {
     "@angular/common": "^13.3.0",
-    "@angular/core": "^13.3.0"
+    "@angular/core": "^13.3.0",
+    "ng-zzfx": "^0.0.6"
   },
   "dependencies": {
-    "ng-zzfx": "^0.0.6",
     "tslib": "^2.3.0"
   }
 }
